@@ -1,0 +1,25 @@
+{
+  "name": "horizon",
+  "version": "0.0.1",
+  "description": "experience",
+  "main": "horizon.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "webpack": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koriantor/horizon.git"
+  },
+  "author": "Caleb George <koriantor@gmail.com> (koriantor.github.io)",
+  "license": "SEE LICENSE IN license",
+  "bugs": {
+    "url": "https://github.com/koriantor/horizon/issues"
+  },
+  "homepage": "https://github.com/koriantor/horizon#readme"
+}

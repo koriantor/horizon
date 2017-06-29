@@ -1,0 +1,4 @@
+/node_modules
+/dist/exposed/static/js/jquery-3.2.1.min.js
+/dist/exposed/static/js/typeit.min.js
+/.vscode
